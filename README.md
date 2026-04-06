@@ -1,4 +1,4 @@
-💰# 💰 FinDash - React Finance Dashboard
+💰 FinDash - React Finance Dashboard
 
 A high-performance, responsive dashboard built with **React** and **Redux Toolkit** for tracking personal finances and visualizing cash flow trends.
 
