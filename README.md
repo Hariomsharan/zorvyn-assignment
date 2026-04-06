@@ -4,24 +4,24 @@ A high-performance, single-page application (SPA) built with React and Redux Too
 🚀 https://zorvyn-assignment-xi-rosy.vercel.app/
 
 ✨ Key Features
--Full CRUD: Add and delete transactions with instant UI synchronization.
+- Full CRUD: Add and delete transactions with instant UI synchronization.
 
--RBAC Logic: toggle between Admin (Manage) and Viewer (Read-only) roles via global state.
+- RBAC Logic: toggle between Admin (Manage) and Viewer (Read-only) roles via global state.
 
--Live Charts: Dynamic data visualization using Recharts for cash flow trends.
+- Live Charts: Dynamic data visualization using Recharts for cash flow trends.
 
--Pro Filtering: Search by category and sort by Date or Amount.
+- Pro Filtering: Search by category and sort by Date or Amount.
 
--Mobile-First UI: Custom Responsive Sidebar and Sticky Mobile Header.
+- Mobile-First UI: Custom Responsive Sidebar and Sticky Mobile Header.
 
 🛠️ Tech Stack
--Frontend: React 18 (Vite) & Tailwind CSS.
+- Frontend: React 18 (Vite) & Tailwind CSS.
 
--State Management: Redux Toolkit & RTK Query (Caching/Fetching).
+- State Management: Redux Toolkit & RTK Query (Caching/Fetching).
 
--Icons: Lucide-React.
+- Icons: Lucide-React.
 
--Data Layer: MockAPI.io (RESTful JSON Architecture).
+- Data Layer: MockAPI.io (RESTful JSON Architecture).
 
 🚀 Quick Start
 1. Install: npm install
