@@ -19,7 +19,7 @@ function App() {
   return (
     <div className="flex h-screen bg-gray-50 overflow-hidden">
       <aside className="w-64 bg-white border-r border-gray-200 hidden md:flex flex-col">
-        <div className="p-6 font-bold text-2xl text-blue-600">FinDash</div>
+        <div className="p-6 font-bold text-2xl text-blue-600">FlowFinance</div>
         <nav className="flex-1 px-4 space-y-2">
           <NavItem icon={<LayoutDashboard size={20} />} label="Dashboard" active />
           <NavItem icon={<ReceiptText size={20} />} label="Transactions" />
